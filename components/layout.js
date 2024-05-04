@@ -92,7 +92,7 @@ export default function Layout({ children }) {
         />
         <meta name="msapplication-TileColor" content="#6b40d8" />
         <meta name="theme-color" content="#6b40d8"></meta>
-        <meta property="og:url" content="https://promptengineering.rocks" />
+        <meta property="og:url" content="https://2023.promptengineering.rocks" />
         <meta property="og:type" content="website" />
         <meta
           property="og:title"
@@ -104,14 +104,14 @@ export default function Layout({ children }) {
         />
         <meta
           property="og:image"
-          content="https://promptengineering.rocks/images/social.png"
+          content="https://2023.promptengineering.rocks/images/social.png"
         />
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta property="twitter:domain" content="promptengineering.rocks" />
         <meta
           property="twitter:url"
-          content="https://promptengineering.rocks"
+          content="https://2023.promptengineering.rocks"
         />
         <meta
           name="twitter:title"
@@ -123,7 +123,7 @@ export default function Layout({ children }) {
         />
         <meta
           name="twitter:image"
-          content="https://promptengineering.rocks/images/social.png"
+          content="https://2023.promptengineering.rocks/images/social.png"
         />
         <meta name="format-detection" content="telephone=no" />
         <meta name="format-detection" content="date=no" />
